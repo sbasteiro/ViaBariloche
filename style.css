@@ -1,0 +1,19 @@
+.text_center {
+    text-align: center
+}
+
+.text_rigth {
+    text-align: right
+}
+
+.text_left {
+    text-align: left
+}
+
+.label_width {
+    width: 80px;
+}
+
+.select_width {
+    width: 33%;
+}
